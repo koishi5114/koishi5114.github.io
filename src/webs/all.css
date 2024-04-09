@@ -1,0 +1,23 @@
+
+body {
+    background-image: url('12.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    user-scalable: no; 
+  }
+  .scrollable-container {
+    overflow: scroll;
+  }
+.overlay img.a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .overlay h1 {
+    text-align: center;
+  }   /*让博客头像和标题居中*/
+
+.overlay p{
+    text-align: center;
+}
